@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""--- Manejo de funciones---"""
+"""--- Manejo de funciones a---"""
 
 ## -- Una funcion es una secuencia de comandos que realizan un computo
 # --- se utiliza el keyword def, se le asigna un nombre  y si va a recibir algun valor
